@@ -6,6 +6,7 @@ Due to the confidentiality and authorization requirements associated with the in
 (1)Two complete public benchmark datasets: Standard data for model comparison and validation.
 
 (2)Pump station actual operation data subset: Industrial data containing 4,500 continuous time-series samples (processed for outliers using the 3σ method, not standardized), which can be used to reproduce the core experiments of the paper.
+
 If you wish to use the dataset for academic or research purposes, please follow these steps:
 # Visit the Storage Link
 The dataset is hosted on Baidu Netdisk:
