@@ -4,9 +4,13 @@ Experimental dataset
 Due to the confidentiality and authorization requirements associated with the industrial monitoring data used in this project, data access is provided through a combination of open and controlled mechanisms. This approach ensures compliance with data-sharing agreements while supporting research transparency and reproducibility.
 ## Dataset Components
 This data package includes the following components:
+
 (1) **Two complete public benchmark datasets**  
+
 These datasets are publicly available and are directly provided in this GitHub repository for convenience. They can be used for model comparison and performance evaluation.
+
 (2) **Pump station actual operation data subset**  
+
 This is an industrial dataset containing 4,500 continuous time-series samples. The data have been processed for outlier removal using the 3σ method. The data subset can be used to understand the experimental setup and data preprocessing procedures described in this study, and to support the evaluation of the model’s performance.
 
 ## Access to Pump Station Data
