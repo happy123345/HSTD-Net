@@ -17,7 +17,7 @@ This is an industrial dataset containing 4,500 continuous time-series samples. T
 If you wish to use the pump station dataset for academic or research purposes, please follow the steps below.
 ### Visit the Storage Link
 The industrial dataset is hosted on a third-party storage platform (Baidu Netdisk):  
-https://pan.baidu.com/s/1U35pddRC8jFwHy2jZz_zgg
+https://pan.baidu.com/s/11364AmoJveA6L5i9vtlu9g
 
 ### Request the Extraction Code
 Please contact the author by email and provide the following information:
